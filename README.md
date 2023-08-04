@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Andrew!
-- 👀 I’m interested in learning more about computer science. I'm an undergrad at UChicago graduating December 2023; I was formerly a Math/Economics major, but I'm switching from Economics to CS. 
-- 🌱 I’m currently learning about data structures and practicing my Java and Python skills!
+- 👋 Hi, I’m Andrew! I love thinking about computer science systems, coding, riding motorcycles, mountain biking, traveling, backpacking, camping, playing board games, and rock climbing! I'm always happy to chat about any of my interests.
+- I'm finishing an internship at Discover Financial Services doing backend API development, and I’m currently looking for New Grad positions starting Summer 2024! I'll be finishing my undergraduate degree in Mathematics at UChicago June 2024, and will be also getting a Master's in Computer Science as part of UChicago's Joint BS/MS program, also June 2024.  
 You can reach me at: andrewchen{at}uchicago.edu
 
 <!---
